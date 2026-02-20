@@ -1,9 +1,9 @@
 {
   "name": "@formify/pixel-spa",
-  "version": "1.0.3",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formify/pixel-spa.git"
+    "url": "git+https://github.com/FormifyOrg/formify-pixel-spa.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
